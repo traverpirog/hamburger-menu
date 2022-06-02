@@ -2,8 +2,8 @@
 
 ### Перед работой необходимо его подключить
 ```html
-    <link rel="stylesheet" href="/css/mob-menu.min.css">
-    <script src="/js/mob-menu.min.js"></script>
+<link rel="stylesheet" href="/css/mob-menu.min.css">
+<script src="/js/mob-menu.min.js"></script>
 ``` 
 
 ##Пример использования:
