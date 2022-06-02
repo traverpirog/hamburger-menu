@@ -6,7 +6,7 @@
 <script src="/js/mob-menu.min.js"></script>
 ``` 
 
-##Пример использования:
+## Пример использования:
 
 ```html
 <!DOCTYPE html>
