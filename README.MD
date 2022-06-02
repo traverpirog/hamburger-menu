@@ -9,7 +9,7 @@
 ##Пример использования:
 
 ```html
-    <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
