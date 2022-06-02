@@ -1,3 +1,10 @@
+.btn-reset {
+    margin: 0;
+    padding: 0;
+    border: none;
+    background: none;
+}
+
 .mob-menu {
     position: fixed;
     background-color: #2b2f3b;
